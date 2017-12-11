@@ -1,1 +1,2 @@
 1. status vseh datotek je bil unversioned ter "unknown"
+2. status vseh datotek je bil versioned in "modified"
